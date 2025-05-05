@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Siddharth Andhale
 
 I'm an Electronics & Telecommunication Engineering student deeply passionate about **Robotics**, **Embedded Systems**, and **Automation**. I enjoy building intelligent systems that bridge software and hardware.
 
